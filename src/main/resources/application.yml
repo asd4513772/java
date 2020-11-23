@@ -1,0 +1,8 @@
+#连接数据库
+spring:
+  datasource:
+    username: admin
+    password: admin
+    url: jdbc:mysql://34.92.148.70/test?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8
+      driver-class-name: com.mysql.cj.jdbc.Driver
+
