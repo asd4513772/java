@@ -2,16 +2,19 @@ package dao;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Mapper;
-import pojo.Studen;
+import pojo.Student;
 
 import java.util.List;
 
 @Mapper
-public interface StudentDao extends BaseMapper<Studen> {
-    List<Studen> findAll();
+public interface StudentDao extends BaseMapper<Student> {
+        List<Student> selectlimit(Integer x);
 
-    List<Studen> findAllById(Studen id);
+        Integer deleteById(Integer x);
 
+        void updateById(Integer id);
+
+        Student insertById(Student student);
 
 
 }

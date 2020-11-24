@@ -1,14 +1,22 @@
 package Service;
 
-import pojo.Studen;
+import pojo.Student;
 
 import java.util.List;
 
 public interface StudentService {
 
-    List<Studen> findAll();
+    List<Student> findAll(Integer x);
 
-    public List<Studen> findAllById( );
+    Student selectById(Integer id);
+
+    void deleteById(Integer id);
+
+    void updateById(Integer id);
+
+    Student insertById(Student student);
+
+
 
 
 }
