@@ -13,7 +13,7 @@ public class StudentServiceimpl implements StudentService {
 
 
     @Override
-    public List<Student> findAll(Integer x) {
+    public List<Student> selectlimit(Integer x) {
         return studentDao.selectlimit(x);
     }
 

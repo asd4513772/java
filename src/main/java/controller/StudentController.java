@@ -20,7 +20,7 @@ public class StudentController {
     @GetMapping("selectAll")
     @ResponseBody
     public List<Student> SelectAindll(Integer x){
-        return studentService.findAll(x);
+        return studentService.selectlimit(x);
     }
 
     @GetMapping("selectById")
