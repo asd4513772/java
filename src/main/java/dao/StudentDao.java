@@ -8,6 +8,7 @@ import java.util.List;
 
 @Mapper
 public interface StudentDao extends BaseMapper<Student> {
+        //分页查询
         List<Student> selectlimit(Integer x);
 
         Integer deleteById(Integer x);

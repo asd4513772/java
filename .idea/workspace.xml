@@ -5,7 +5,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3659aab1-c228-4460-9d32-f701d8af82ab" name="默认更改列表" comment="" />
+    <list default="true" id="3659aab1-c228-4460-9d32-f701d8af82ab" name="默认更改列表" comment="默认更改列表">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/StudentDao.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,60 +47,13 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="java-maste" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="java-maste" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
@@ -112,6 +68,8 @@
       <updated>1606267059327</updated>
       <workItem from="1606267060573" duration="7000" />
       <workItem from="1606267469450" duration="3318000" />
+      <workItem from="1606275908558" duration="577000" />
+      <workItem from="1606276661255" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="2st">
       <created>1606268429714</created>
@@ -120,11 +78,18 @@
       <option name="project" value="LOCAL" />
       <updated>1606268429715</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="默认更改列表">
+      <created>1606275785987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606275785987</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -140,17 +105,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2st" />
-    <option name="LAST_COMMIT_MESSAGE" value="2st" />
+    <MESSAGE value="默认更改列表" />
+    <option name="LAST_COMMIT_MESSAGE" value="默认更改列表" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="971" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606276376827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="971" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606276376827" />
     <state x="898" y="0" key="CommitChangelistDialog2" timestamp="1606268425423">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="898" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606268425423" />
-    <state x="1085" y="249" key="FileChooserDialogImpl" timestamp="1606268165256">
+    <state x="1085" y="249" key="FileChooserDialogImpl" timestamp="1606276466610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1085" y="249" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606268165256" />
+    <state x="1085" y="249" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606276466610" />
     <state x="1116" y="413" key="Github.CreateGistDialog" timestamp="1606268100366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -163,13 +133,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="18" y="194" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606268889102" />
-    <state x="897" y="225" key="Vcs.Push.Dialog.v2" timestamp="1606275738612">
+    <state x="897" y="225" key="Vcs.Push.Dialog.v2" timestamp="1606276407507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="897" y="225" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606275738612" />
-    <state x="946" y="281" key="git4idea.merge.GitPullDialog" timestamp="1606275621551">
+    <state x="897" y="225" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606276407507" />
+    <state x="946" y="281" key="git4idea.merge.GitPullDialog" timestamp="1606276693115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="946" y="281" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606275621551" />
+    <state x="946" y="281" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606276693115" />
+    <state x="888" y="229" key="run.anything.popup" timestamp="1606276389976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="888" y="229" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606276389976" />
   </component>
 </project>
